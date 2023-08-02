@@ -8,5 +8,5 @@ The convolutional neural network model used here Inception-ResNetV2 and the comp
 
 The Dataset is been taken from Kaggle
 Link:
-https://www.kaggle.com/datasets/gunavenkatdoddi/preprocessed-eye-diseases-fundus-images?select=seg_dataset
+https://www.kaggle.com/datasets/gunavenkatdoddi/preprocessed-eye-diseases-fundus-images?select=seg_dataset 
 This Dataset consists of Normal, Diabetic Retinopathy, Cataract and Glaucoma retinal images where each class have approximately 1000 images.
