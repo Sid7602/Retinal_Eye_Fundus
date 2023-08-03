@@ -7,7 +7,7 @@ This is a Deep Learning based Analysis for Diagnosis of Retinal Eye Fundus Disea
 3. Glaucoma
 4. Normal
 
-The convolutional neural network model used here Inception-ResNetV2 and the comparison between the optimizers like sgdm, adam and rmsprop is been done. 
+The convolutional neural network model used here is Inception-ResNetV2 and the comparison between the optimizers like sgdm, adam and rmsprop is been done. 
 
 The Dataset is been taken from Kaggle
 Link:
